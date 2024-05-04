@@ -9,3 +9,8 @@ lorem sfdxhg,kbml;mbvxff
 + semangka
 ## logo
   ![logo markdown](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/175px-Markdown-mark.svg.png)
+## table
+|no|nama|
+|---|---|
+|1|ahmad|
+|2|beni|
