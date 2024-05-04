@@ -3,5 +3,5 @@
 ### belajar git 2
 lorem sfdxhg,kbml;mbvxff
 ## buah buahan
--apel
--jeruk
+- apel
+- jeruk
