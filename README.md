@@ -8,5 +8,4 @@ lorem sfdxhg,kbml;mbvxff
 + mangga
 + semangka
 ##logo
-  ![logo markdown](![image](https://github.com/adeNuryana/belajar-di-al-wafi/assets/110706799/41e329e7-c663-402f-b7c6-3b06ac65811a))
-
+  ![logo markdown](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/175px-Markdown-mark.svg.png)
