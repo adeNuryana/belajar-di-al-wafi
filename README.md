@@ -7,5 +7,5 @@ lorem sfdxhg,kbml;mbvxff
 - jeruk
 + mangga
 + semangka
-##logo
+## logo
   ![logo markdown](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/175px-Markdown-mark.svg.png)
