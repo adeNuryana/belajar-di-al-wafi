@@ -5,3 +5,5 @@ lorem sfdxhg,kbml;mbvxff
 ## buah buahan
 - apel
 - jeruk
++ mangga
++ semangka
